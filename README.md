@@ -1,4 +1,4 @@
-<p align="center"><b>神社</b><br><sub>jinja</sub></p>
+<p align="center"><b>登竜門</b><br><sub>tōryūmon</sub></p>
 
 ```text
                            #@@*+**=:.                                              .-+**+#@@+
