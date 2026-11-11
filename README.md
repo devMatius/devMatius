@@ -1,4 +1,4 @@
-<p align="center"><b>桜 · 鳥居 · 鯉</b><br><sub>sakura · torii · koi</sub></p>
+<p align="center"><b>神社</b><br><sub>jinja</sub></p>
 
 ```text
                            #@@*+**=:.                                              .-+**+#@@+
