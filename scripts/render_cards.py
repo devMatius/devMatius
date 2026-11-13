@@ -28,7 +28,7 @@ from pathlib import Path
 
 # ───────────────────────────── CONFIG ─────────────────────────────
 CONFIG = {
-    "login": "devMatius",  # sobrescrito por GITHUB_LOGIN ou GITHUB_REPOSITORY_OWNER
+    "login": "devmatzz",  # sobrescrito por GITHUB_LOGIN ou GITHUB_REPOSITORY_OWNER
     "name": "Matheus",
     "role": "Analista de Suporte",
     "tagline": ("Resolvo problemas com ", "tecnologia, IA e automação", "."),
@@ -44,7 +44,7 @@ CONFIG = {
     ],
     "links": [
         # (arquivo, rótulo, valor exibido, url, kanji decorativo)
-        ("github", "GitHub", "@devMatius", "https://github.com/devMatius", "庫"),
+        ("github", "GitHub", "@devmatzz", "https://github.com/devmatzz", "庫"),
         ("linkedin", "LinkedIn", "/in/matheusdssouza", "https://www.linkedin.com/in/matheusdssouza/", "縁"),
         ("email", "Email", "matheusmsms93@gmail.com", "mailto:matheusmsms93@gmail.com", "文"),
     ],
